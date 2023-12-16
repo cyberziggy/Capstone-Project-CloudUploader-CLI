@@ -12,12 +12,12 @@
 ```bash
 ./clouduploader.sh /path/to/file.txt [target_directory] [storage_class]
 
-Features
+## Features
 Single-file upload to Amazon S3.
 Optional target directory and storage class configuration.
 Simple command-line interface.
 
-Troubleshooting
+## Troubleshooting
 If you encounter issues, check the error message displayed by the script.
 Ensure that the AWS CLI is properly configured.
 Contributing
